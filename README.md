@@ -2,17 +2,17 @@
 
 This repository is a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) intended to make it simpler for undergraduate and postgraduate bioinformatic project students to get started with their own `git` and GitHub repositories.
 
+> The advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain far more information and advice than can be included here.
+
 <!-- TOC -->
 
 - [README.md `bioinformatics_project_template`](#readmemd-bioinformatics_project_template)
-    - [Why should you use this repository?](#why-should-you-use-this-repository)
-    - [How to use this repository](#how-to-use-this-repository)
-        - [Creating a new repository](#creating-a-new-repository)
-        - [Adding a file to the repository](#adding-a-file-to-the-repository)
-        - [Updating a file in the repository](#updating-a-file-in-the-repository)
-        - [Deleting a file from the repository](#deleting-a-file-from-the-repository)
-    - [Repository layout](#repository-layout)
-    - [Useful resources](#useful-resources)
+  - [Why should you use this repository?](#why-should-you-use-this-repository)
+  - [How to use this repository](#how-to-use-this-repository)
+    - [Cloning the repository/template to your machine](#cloning-the-repositorytemplate-to-your-machine)
+      - [Creating a new repository in your own from this template](#creating-a-new-repository-in-your-own-from-this-template)
+  - [Repository layout](#repository-layout)
+  - [Useful resources](#useful-resources)
 
 <!-- /TOC -->
 
@@ -30,9 +30,26 @@ These files can - and should - be modified for your own project. For example, **
 
 The same applies to the subdirectories under this _project root_ folder
 
-### Creating a new repository
+### Cloning the repository/template to your machine
 
-To create a new repository from this template:
+There are several ways to get this template onto your machine, so you can use it. You should use the one that suits the way you work 
+
+1. The easiest method is to download this template as a `.zip` file and uncompress it on your computer. Using this approach, you do not need to use `git` (which can be intimidating)
+    - > _If you do not use `git` to manage your project files, you will not benefit from the advantages it gives in terms of version control and replicability._
+    - To download the template, [use this link](https://github.com/sipbs-compbiol/template_bioinformatics_project/archive/refs/heads/master.zip) or click on the `Code` button, then the `Download ZIP` link at the GitHub page (see image below)
+
+![Download ZIP link on the GitHub page](./assets/images/download_zip_link.png)
+
+2. To use `git` with your project, and this template, you will need to do these things
+   1. Create a GitHub account (if you do not already have one)
+   2. Create a new repository from this template in your GitHub account
+   3. Clone your new repository to your local machine
+   - > Use of `git` is beyond the scope of this `README.md` but some links are provided in the `Useful Resources` section, below.
+   - > A short guide to creating a new repository and cloning it to your own machine is given in the sections below.
+
+#### Creating a new repository in your own from this template
+
+To create a new repository from this template at GitHub:
 
 1. Log in to GitHub at [`https://github.com`](https://github.com)
 2. Use your browser to navigate to the GitHub page for this repository: [https://github.com/sipbs-compbiol/template_bioinformatics_project](https://github.com/sipbs-compbiol/template_bioinformatics_project)
@@ -52,19 +69,18 @@ The official guidance for creating a new repository can be found on GitHub at th
 
 - [Creating a new repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
-### Adding a file to the repository
-
-### Updating a file in the repository
-
-### Deleting a file from the repository
 
 ## Repository layout
 
 This repository follows the guidance in [Noble, 2009](https://doi.org/10.1371/journal.pcbi.1000424) as a starting point. There are a few small changes with respect to that manuscript's example, but you are free to modify the folders and the files they contain, to suit your own purposes.
 
+![Example project layout from Noble (2009) paper](./assets/images/noble_2009_fig1.png)
+
+
+
 ## Useful resources
 
 - [Creating a new repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-- [GitHub guide to `README.md` files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [GitHub's guide to `README.md` files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
 - Noble, W. S. (2009). A quick guide to organizing computational biology projects. PLoS Computational Biology, 5(7), e1000424. [http://doi.org/10.1371/journal.pcbi.1000424](http://doi.org/10.1371/journal.pcbi.1000424)
