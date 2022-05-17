@@ -1,6 +1,6 @@
 # README.md `assets`
 
-This subfolder contains _assets_. These are resources that are useful at the top level, such as:
+This subfolder contains _assets_. These are resources that are useful at the top level of the repository _but not necessarily part of your scientific work_, such as:
 
 - images for the `README.md` file
 - documents or other files you might want to link from the `README.md` file, especially if you are using GitHub pages from the main repository root

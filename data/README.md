@@ -15,6 +15,9 @@ The way you organise your data should suit the way you work, but there are princ
   - You should always have a "chain of evidence" reproducibly establishing the steps of your analysis
   - You may need to reanalyse your data, or "clean" it, in a different way in future. You cannot do this if the original data has been modified
   - Keeping the raw data in its own folder keeps it separate from other files that might be modified
+- Use plain text formats wherever possible
+  - Plain text will always be readable in some way; binary and proprietary files probably will not
+  - `git` works better with plain text than binary files - so it is easier to see if a file has been changed (accidentally or not) if it is plain text.
 - Keep the "cleaned" and processed data separate from the raw data, in its own folder
   - Data processing should - wherever possible - be handled by a script or other repeatable code/software process. This helps ensure reproducibility and establish a "chain of evidence" for your work
   - Processed data will be the basis for your analyses
