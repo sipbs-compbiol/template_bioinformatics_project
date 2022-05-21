@@ -2,7 +2,7 @@
 
 This repository is a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) intended to make it easier for undergraduate and postgraduate bioinformatics project students to get started with their own `git` and GitHub repositories.
 
-> The advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain much more information and advice than can be included here.
+> Most of the advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain much more information and advice than can be included here.
 
 <!-- TOC -->
 
@@ -12,6 +12,7 @@ This repository is a [GitHub template](https://docs.github.com/en/repositories/c
     - [Cloning the repository/template to your machine](#cloning-the-repositorytemplate-to-your-machine)
       - [Creating a new repository in your own from this template](#creating-a-new-repository-in-your-own-from-this-template)
   - [Repository layout](#repository-layout)
+  - [How to improve this repository](#how-to-improve-this-repository)
   - [Useful resources](#useful-resources)
   - [LICENCE](#licence)
 
@@ -19,7 +20,10 @@ This repository is a [GitHub template](https://docs.github.com/en/repositories/c
 
 ## Why should you use this repository?
 
-This template was written specifically to assist people working on their first (or an early) bioinformatics or computational biology project, and who would like some help setting up their project structure so that it follows good practice and keeps files, code and data in order.
+This template was written specifically with the following kinds of users in mind:
+
+- people working on their first (or an early) bioinformatics or computational biology project
+- anyone who would like some guidance setting up a computational project structure in line with good practice to keep files, code and data in order
 
 If you are already very familiar with building your own project repositories with `git` and GitHub, or you have experience with good practice in this kind of project structure, this template may not be of as much use to you. But it might save some time if it aligns well with your preferred way of working.
 
@@ -77,7 +81,16 @@ This repository follows the guidance in [Noble, 2009](https://doi.org/10.1371/jo
 
 ![Example project layout from Noble (2009) paper](./assets/images/noble_2009_fig1.png)
 
+## How to improve this repository
 
+If there is a part of this repository you think could be improved, or you think there is something missing that could be included, please do make a suggestion on our [`Issues` page](https://github.com/sipbs-compbiol/template_bioinformatics_project/issues).
+
+- [`bioinformatics_project_template` Issues Page](https://github.com/sipbs-compbiol/template_bioinformatics_project/issues)
+
+If you would like to make a direct contribution to improve this repository, please do submit a [pull request](https://github.com/sipbs-compbiol/template_bioinformatics_project/pulls). For guidance in submitting pull requests, please see the [`wiki` page](https://github.com/sipbs-compbiol/template_bioinformatics_project/wiki) associated with this repository.
+
+- [`bioinformatics_project_template` Pull Request page](https://github.com/sipbs-compbiol/template_bioinformatics_project/pulls)
+- [`bioinformatics_project_template` Wiki page](https://github.com/sipbs-compbiol/template_bioinformatics_project/wiki)
 
 ## Useful resources
 
