@@ -109,4 +109,4 @@ If you would like to make a direct contribution to improve this repository, plea
 
 ## LICENCE
 
-This repository is licensed under the Creative Commons Attribution-Sharealike 4.0 licence. Please see the [`LICENSE` file](./LICENSE) in this repository for further detail.
+This repository is licensed under the Creative Commons Attribution-Sharealike 4.0 licence. Please see the [`LICENSE` file]([./LICENSE](https://github.com/sipbs-compbiol/template_bioinformatics_project/blob/master/LICENSE)) in this repository for further detail.
