@@ -1,8 +1,8 @@
 # README.md `bioinformatics_project_template`
 
-This repository is a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) intended to make it simpler for undergraduate and postgraduate bioinformatic project students to get started with their own `git` and GitHub repositories.
+This repository is a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) intended to make it easier for undergraduate and postgraduate bioinformatics project students to get started with their own `git` and GitHub repositories.
 
-> The advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain far more information and advice than can be included here.
+> The advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain much more information and advice than can be included here.
 
 <!-- TOC -->
 
@@ -13,6 +13,7 @@ This repository is a [GitHub template](https://docs.github.com/en/repositories/c
       - [Creating a new repository in your own from this template](#creating-a-new-repository-in-your-own-from-this-template)
   - [Repository layout](#repository-layout)
   - [Useful resources](#useful-resources)
+  - [LICENCE](#licence)
 
 <!-- /TOC -->
 
@@ -83,4 +84,10 @@ This repository follows the guidance in [Noble, 2009](https://doi.org/10.1371/jo
 - [Creating a new repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 - [GitHub's guide to `README.md` files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
+- [Ten great papers for biologists starting out in computational biology](https://widdowquinn.github.io/ten_great_papers/)
+
 - Noble, W. S. (2009). A quick guide to organizing computational biology projects. PLoS Computational Biology, 5(7), e1000424. [http://doi.org/10.1371/journal.pcbi.1000424](http://doi.org/10.1371/journal.pcbi.1000424)
+
+## LICENCE
+
+This repository is licensed under the Creative Commons Attribution-Sharealike 4.0 licence. Please see the [`LICENSE` file](./LICENSE) in this repository for further detail.
