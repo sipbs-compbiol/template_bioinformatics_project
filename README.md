@@ -4,12 +4,6 @@ This repository is a [GitHub template](https://docs.github.com/en/repositories/c
 
 > Most of the advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain much more information and advice than can be included here.
 
-<div style="text-align: center;">
-
-![XKCD 1597: a stickman humorously explains `git`](https://imgs.xkcd.com/comics/git.png "XKCD 1597: Git")
-
-</div>
-
 <!-- TOC -->
 
 - [README.md `bioinformatics_project_template`](#readmemd-bioinformatics_project_template)
@@ -23,6 +17,8 @@ This repository is a [GitHub template](https://docs.github.com/en/repositories/c
   - [LICENCE](#licence)
 
 <!-- /TOC -->
+
+![XKCD 1597: a stickman humorously explains `git`](https://imgs.xkcd.com/comics/git.png "XKCD 1597: Git")
 
 ## Why should you use this repository?
 
