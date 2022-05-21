@@ -1,4 +1,4 @@
-## Checklist
+## Checklist
 
 Please check that you have taken the steps below:
 
