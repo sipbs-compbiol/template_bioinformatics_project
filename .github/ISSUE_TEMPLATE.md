@@ -1,6 +1,5 @@
-## Checklist
-
-Please check that you have taken the steps below:
+## Pre-issue checklist
+_Please check that you have taken the steps below:_
 
 - [ ] Search the Issues pages for related discussions and suggestions
 
@@ -12,3 +11,8 @@ _Describe the issue in detail, as clearly as possible. Please be specific wherev
 
 ## Contributions:
 _Would you be interested in implementing your suggested improvement or other change? If you are, do you want or need assistance in making any changes in this repository?_
+
+## Post-issue checklist
+_Please check that you have taken the steps below_
+
+- [ ] Added a suitable label or labels for this issue from the `Labels` button in the sidebar
