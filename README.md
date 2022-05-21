@@ -2,6 +2,8 @@
 
 This repository is a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) intended to make it easier for undergraduate and postgraduate bioinformatics project students to get started with their own `git` and GitHub repositories.
 
+![XKCD 1597: a stickman humorously explains `git`](https://imgs.xkcd.com/comics/git.png "XKCD 1597: Git")
+
 > Most of the advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain much more information and advice than can be included here.
 
 <!-- TOC -->
@@ -43,7 +45,7 @@ There are several ways to get this template onto your machine, so you can use it
     - > _If you do not use `git` to manage your project files, you will not benefit from the advantages it gives in terms of version control and replicability._
     - To download the template, [use this link](https://github.com/sipbs-compbiol/template_bioinformatics_project/archive/refs/heads/master.zip) or click on the `Code` button, then the `Download ZIP` link at the GitHub page (see image below)
 
-![Download ZIP link on the GitHub page](./assets/images/download_zip_link.png)
+![A screenshot of this GitHub repository showing the Download ZIP link on the GitHub page](./assets/images/download_zip_link.png "Download ZIP link on the GitHub page")
 
 2. To use `git` with your project, and this template, you will need to do these things
    1. Create a GitHub account (if you do not already have one)
@@ -60,7 +62,7 @@ To create a new repository from this template at GitHub:
 2. Use your browser to navigate to the GitHub page for this repository: [https://github.com/sipbs-compbiol/template_bioinformatics_project](https://github.com/sipbs-compbiol/template_bioinformatics_project)
 3. Click on the `Use This Template` button
 
-![Location of the `Use This Template` button on the GitHub repository page](./assets/images/use_this_template_button.png)
+![A screenshot of this GitHub repository showing the location of the `Use This Template` button on the GitHub repository page](./assets/images/use_this_template_button.png "Location of the `Use This Template` button on the GitHub repository page")
 
 4. Click on the `Owner` drop-down menu, and select the account you would like to own the new repository (this will most likely be your own account)
 5. Type the name of the repository you want to create into the `Repository Name` field.
@@ -79,7 +81,7 @@ The official guidance for creating a new repository can be found on GitHub at th
 
 This repository follows the guidance in [Noble, 2009](https://doi.org/10.1371/journal.pcbi.1000424) as a starting point. There are a few small changes with respect to that manuscript's example, but you are free to modify the folders and the files they contain, to suit your own purposes.
 
-![Example project layout from Noble (2009) paper](./assets/images/noble_2009_fig1.png)
+![Example project directory layout from the Noble (2009) paper](./assets/images/noble_2009_fig1.png "Example project layout from Noble (2009) paper")
 
 ## How to improve this repository
 
