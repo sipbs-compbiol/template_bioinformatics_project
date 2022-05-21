@@ -2,8 +2,6 @@
 
 This repository is a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) intended to make it easier for undergraduate and postgraduate bioinformatics project students to get started with their own `git` and GitHub repositories.
 
-![XKCD 1597: a stickman humorously explains `git`](https://imgs.xkcd.com/comics/git.png "XKCD 1597: Git")
-
 > Most of the advice in this repository and template is based on that in the [ten great papers on this page](https://widdowquinn.github.io/ten_great_papers/), though they contain much more information and advice than can be included here.
 
 <!-- TOC -->
@@ -20,6 +18,12 @@ This repository is a [GitHub template](https://docs.github.com/en/repositories/c
 
 <!-- /TOC -->
 
+<div style="text-align: center;">
+
+![XKCD 1597: a stickman humorously explains `git`](https://imgs.xkcd.com/comics/git.png "XKCD 1597: Git")
+
+</div>
+
 ## Why should you use this repository?
 
 This template was written specifically with the following kinds of users in mind:
@@ -35,11 +39,11 @@ This repository is a _template_. It does not contain any project information its
 
 These files can - and should - be modified for your own project. For example, **this `README.md` file is a landing page for the project, explaining what it is, why it exists, and how to use it.** Your project repository should replace this `README.md` file with information that performs the same task _for your project_.
 
-The same applies to the subdirectories under this _project root_ folder
+The same applies to `README.md` files in the subdirectories under this _project root_ folder
 
 ### Cloning the repository/template to your machine
 
-There are several ways to get this template onto your machine, so you can use it. You should use the one that suits the way you work 
+There are several ways to get this template onto your machine, so you can use it. You should use the method that suits the way you work 
 
 1. The easiest method is to download this template as a `.zip` file and uncompress it on your computer. Using this approach, you do not need to use `git` (which can be intimidating)
     - > _If you do not use `git` to manage your project files, you will not benefit from the advantages it gives in terms of version control and replicability._
