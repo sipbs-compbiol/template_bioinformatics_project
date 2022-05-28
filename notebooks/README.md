@@ -44,11 +44,11 @@ Below are links to tutorials and pages to help present your `notebooks`:
 * _Present methods and supplementary data_: https://widdowquinn.github.io/SI_Hugouvieux-Cotte-Pattat_2021/
 
 **Examples of intergrating `notebooks` into GitHub pages:**
-* _Present a mixture of methods and results_:
+* _Present a mixture of methods and results using `Jupyter notebooks`_:
     * _The directory in the repo where the `notebook` and HTML page are stored_: https://github.com/widdowquinn/2018-03-06-ibioic/tree/master/02-sequence_databases
     * _The resulting GitHub page_: https://widdowquinn.github.io/2018-03-06-ibioic/02-sequence_databases/05-blast_for_rbh.html
 
-* _Present analyses and supplementary data_:
+* _Present analyses and supplementary data using `Rmarkdown notebooks`_:
     * _The directory in the repo where the `notebook` and HTML page are stored_: https://github.com/HobnobMancer/pyrewton/tree/master/pyrewton/cazymes/evaluate_tools/report
     * _The resulting GitHub page_: https://hobnobmancer.github.io/pyrewton/pyrewton/cazymes/evaluate_tools/report/cazyme_prediction_tool_evaluation-2021-03-30.html
 
