@@ -15,3 +15,15 @@ The `notebooks` folder might contain examples of [`Jupyter`](https://jupyter.org
 among other uses
 
 These could be organised in many different ways: one subfolder per kind of notebook; a different subfolder for each topic addressed; no subfolders; and so on.
+
+
+## Quick guide
+
+Below is a quick brief summary on how to set up and present `notebooks` as interative HTML pages.
+
+1. Save the `notebook` as HTML pages
+2. Add and commit the HTML pages to the GitHub repository
+3. Add a link in the main landing `README.md` file or from another intersitital webpage to the HTML page built by GitHub Page.
+
+> **_NOTE:_**  HTML pages built by GitHub Page use a different URL structure to the GitHub repository. GitHub repositories use the `https://github.com/<user_name>/<repo_name>` format, whereas pages built by GitHub Page use the `https://<user_name>.github.io/<repo_name>` format.
+
