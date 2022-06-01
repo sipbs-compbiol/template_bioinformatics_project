@@ -3,18 +3,20 @@
 The `notebooks` folder might contain examples of [`Jupyter`](https://jupyter.org/) or [`RMarkdown`](https://rmarkdown.rstudio.com/) notebooks. These notebook formats are powerful, dynamic documents that interleave code and text. They can be very useful for:
 
 - working through problems as a kind of "sketchpad"
-- host supplementary material that is too large to include in a report or thesis
-- present detailed methodologies, including commands that can be copied and executed for reproducibility
-- presenting analyses elegantly in a static way
-- presenting complex ideas or analyses with the code and data being analysed, so that the analysis can be modified and the effects of the changes seen immediately
-- presenting interactive analyses with dynamic widgets
-- writing webpages showing your work and analysis
+  - the interactive nature of the document means that you can experiment with code and analyses quickly
 - reusing ideas and analyses with new datasets
-- presenting the entire analysis or thesis in an interactive book form
+  - supporting _reusability_ and _reproducibility_
+- presenting interactive analyses with dynamic widgets
+  - enabling a reader to explore the data with no need for detailed technical knowledge
 
-among other uses
+- mixing richly formatted text with code and output, and to save documents in other formats (e.g. `.pdf` and `.html`) 
+  - enables _sharing_ with others and rapid publication
+  - presenting analyses elegantly in a static way
+  - writing webpages showing your work and analysis
+  - host supplementary material online that is too large or cumbersome to include in a report or thesis
+  - presenting the entire analysis or thesis in an interactive book form
 
-These could be organised in many different ways: one subfolder per kind of notebook; a different subfolder for each topic addressed; no subfolders; and so on.
+Notebooks can be organised in many different ways: one subfolder per kind of notebook; a different subfolder for each topic addressed; no subfolders; and so on.
 
 
 ## Quick guide
