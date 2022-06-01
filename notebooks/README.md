@@ -26,29 +26,30 @@ Notebooks can be organised in many different ways: one subfolder per kind of not
 
 - [`Getting started with GitHub Pages`](https://docs.github.com/en/pages/getting-started-with-github-pages)
 
-
-
 ## Useful links
 
 Below are links to tutorials and pages to help present your `notebooks`:
 
-**GitPages:** Links n how to set up GitHub pages:
-* What are GitHub pages and what features are available: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
-* GitHub quick guide: https://docs.github.com/en/pages/quickstart
-* www3Schools: https://www.w3schools.com/git/git_github_pages.asp
+### GitHub Pages
 
-**Examples of GitHub pages:**
-* _Present methods_: https://widdowquinn.github.io/2018-03-06-ibioic/
-* _Present methods/documentation_: https://hobnobmancer.github.io/cazy_webscraper/
-* _Present methods and supplementary data_: https://widdowquinn.github.io/SI_Hugouvieux-Cotte-Pattat_2021/
+How to set up GitHub Pages:
+  
+- [GitHub Pages and available](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+- [GitHub Pages quickstart guide](https://docs.github.com/en/pages/quickstart)
+- [www3schools tutorial](https://www.w3schools.com/git/git_github_pages.asp)
 
-**Examples of intergrating `notebooks` into GitHub pages:**
-* _Present a mixture of methods and results using `Jupyter notebooks`_:
-    * _The directory in the repo where the `notebook` and HTML page are stored_: https://github.com/widdowquinn/2018-03-06-ibioic/tree/master/02-sequence_databases
-    * _The resulting GitHub page_: https://widdowquinn.github.io/2018-03-06-ibioic/02-sequence_databases/05-blast_for_rbh.html
+Examples of GitHub pages
 
-* _Present analyses and supplementary data using `Rmarkdown notebooks`_:
-    * _The directory in the repo where the `notebook` and HTML page are stored_: https://github.com/HobnobMancer/pyrewton/tree/master/pyrewton/cazymes/evaluate_tools/report
-    * _The resulting GitHub page_: https://hobnobmancer.github.io/pyrewton/pyrewton/cazymes/evaluate_tools/report/cazyme_prediction_tool_evaluation-2021-03-30.html
+- [Bioinformatics tutorial](https://widdowquinn.github.io/2018-03-06-ibioic/)
+- [Software methods and documentation](https://hobnobmancer.github.io/cazy_webscraper/)
+- [Publication methods and supplementary data](https://widdowquinn.github.io/SI_Hugouvieux-Cotte-Pattat_2021/)
 
-* https://htmlpreview.github.io/?https://github.com/cbernet/jupyter_web/blob/master/index.html
+Examples of intergrating `notebooks` into GitHub pages
+
+- `Jupyter notebooks`:
+  -  [Repository directory](https://github.com/widdowquinn/2018-03-06-ibioic/tree/master/02-sequence_databases)
+  -  [Webpage](https://widdowquinn.github.io/2018-03-06-ibioic/02-sequence_databases/05-blast_for_rbh.html)
+
+- `Rmarkdown notebooks`:
+  - [Repository directory](https://github.com/HobnobMancer/pyrewton/tree/master/pyrewton/cazymes/evaluate_tools/report)
+  - [Webpage](https://hobnobmancer.github.io/pyrewton/pyrewton/cazymes/evaluate_tools/report/cazyme_prediction_tool_evaluation-2021-03-30.html)
