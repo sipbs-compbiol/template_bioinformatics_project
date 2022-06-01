@@ -88,6 +88,7 @@ This repository follows the guidance in [Noble, 2009](https://doi.org/10.1371/jo
 If there is a part of this repository you think could be improved, or you think there is something missing that could be included, please do make a suggestion on our [`Issues` page](https://github.com/sipbs-compbiol/template_bioinformatics_project/issues).
 
 - [`bioinformatics_project_template` Issues Page](https://github.com/sipbs-compbiol/template_bioinformatics_project/issues)
+- [How to suggest an improvement using the Issues Page](https://github.com/sipbs-compbiol/template_bioinformatics_project/wiki/How-to-suggest-an-improvement-using-the-Issues-page)
 
 If you would like to make a direct contribution to improve this repository, please do submit a [pull request](https://github.com/sipbs-compbiol/template_bioinformatics_project/pulls). For guidance in submitting pull requests, please see the [`wiki` page](https://github.com/sipbs-compbiol/template_bioinformatics_project/wiki) associated with this repository.
 
